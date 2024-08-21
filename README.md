@@ -22,13 +22,11 @@
 - **백엔드 개발**: Spring Boot를 활용한 웹 애플리케이션 개발
 - **프론트엔드 개발**: React를 사용한 인터랙티브 UI 구축
 - **데이터베이스**: Oracle DB를 이용한 데이터 관리 및 최적화
-- **클라우드 컴퓨팅**: AWS 학습 예정
 
 ## 💻 기술 스택
 - **프론트엔드**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 - **백엔드**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 - **데이터베이스**: ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-- **클라우드 서비스**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) (학습 예정)
 
 ## 🛠 프로젝트
 ### [프로젝트 1: TeamFit v1 (기본 콘솔 애플리케이션)](https://github.com/gksqls9735/TeamFit)
@@ -46,7 +44,6 @@
 
 ## 📫 연락처
 - 이메일: [gksqls9735@gmail.com](mailto:gksqls9735@gmail.com)
-- 링크드인: [프로필 링크](https://www.linkedin.com/in/yourprofile)
 
 ---
 
