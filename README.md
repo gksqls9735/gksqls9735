@@ -31,16 +31,16 @@
 - **클라우드 서비스**: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) (학습 예정)
 
 ## 🛠 프로젝트
-### [프로젝트 1: TeamFit v1 (기본 콘솔 애플리케이션)](https://github.com/gksqls9735/teamfit-v1)
+### [프로젝트 1: TeamFit v1 (기본 콘솔 애플리케이션)](https://github.com/gksqls9735/TeamFit)
 - 일반 유저는 운동 강의를 신청하고, 강사와 1:1 매칭을 진행할 수 있는 기본 애플리케이션.
 - 강사 유저는 강의를 생성하고, 일반 유저와 매칭.
 - **기술 스택**: Java, Eclipse 콘솔, 텍스트 파일 저장
 
-### [프로젝트 2: TeamFit v2 (오라클 DB 연동)](https://github.com/gksqls9735/teamfit-v2)
+### [프로젝트 2: TeamFit v2 (오라클 DB 연동)](https://github.com/gksqls9735/TeamFitdb)
 - 기존 기능에 더해 Oracle DB를 사용하여 데이터를 관리하고, CRUD 기능을 구현.
 - **기술 스택**: Java, Eclipse, Oracle DB
 
-### [프로젝트 3: TeamFit v3 (프로시저와 트리거 추가)](https://github.com/gksqls9735/teamfit-v3)
+### [프로젝트 3: TeamFit v3 (프로시저와 트리거 추가)](https://github.com/gksqls9735/TeamFitProc)
 - Oracle DB에 프로시저와 트리거를 추가하여 더욱 안정적이고 효율적인 데이터 관리를 구현.
 - **기술 스택**: Java, Eclipse, Oracle DB, 프로시저, 트리거
 
